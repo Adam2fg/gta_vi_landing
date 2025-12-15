@@ -1,32 +1,21 @@
-<div align="center">
-  <br />
-  
-   <div>
-    <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </div>
 
-  <h3 align="center">GTA VI Website w/ GSAP</h3>
+### GTA VI Website w/ GSAP
 
-</div>
+<img width="1440" height="900" alt="Screenshot 2025-12-08 at 12 10 03" src="https://github.com/user-attachments/assets/839c0925-19de-45a9-a959-b70403033ec0" />
 
-## 📋 <a name="table">Table of Contents</a>
+
+## 📋 Table of Contents
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 
-<!-- If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://www.youtube.com/watch?v=dCLhUialKPQ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a> -->
-
-## <a name="introduction">🤖 Introduction</a>
+## 🤖 Introduction
 
 Recreated the viral GTA VI website with React, Tailwind CSS, and GSAP. 
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## ⚙️ Tech Stack
 
 - **[GSAP](https://gsap.com/)** is a powerful JavaScript animation library used in this project to create dynamic, scroll-driven visuals. Features include SplitText animations for bold text reveals, ScrollTrigger for timeline control, parallax scrolling, pinned sections, scroll-synced video playback, seamless multi-section timelines, image masking effects, and a fully custom animated carousel.
 
@@ -37,7 +26,7 @@ Recreated the viral GTA VI website with React, Tailwind CSS, and GSAP.
 - **[Vite](https://vitejs.dev/)** is a lightning-fast build tool and development server that powers this project’s workflow. It enables instant hot module replacement, fast startup, and optimized production builds—ideal for an animation-heavy React site with smooth, real-time development feedback and minimal config.
 
 
-## <a name="features">🔋 Features</a>
+## 🔋 Features
 
 👉 **SplitText Animations**: Create impactful text reveals using GSAP’s SplitText for dynamic intros and section highlights.
 
@@ -55,7 +44,7 @@ Recreated the viral GTA VI website with React, Tailwind CSS, and GSAP.
 
 And many more, including enhanced security and optimized video performance!
 
-## <a name="quick-start">🤸 Quick Start</a>
+## 🤸 Quick Start
 
 Follow these steps to set up the project locally on your machine.
 
