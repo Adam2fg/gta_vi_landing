@@ -1,5 +1,5 @@
 
-### GTA VI Website w/ GSAP
+# GTA VI Website w/ GSAP
 
 <img width="1396" height="774" alt="Screenshot 2025-12-15 at 16 34 07" src="https://github.com/user-attachments/assets/0b80a2e8-13f2-4262-9338-3bedfd2b924c" />
 
